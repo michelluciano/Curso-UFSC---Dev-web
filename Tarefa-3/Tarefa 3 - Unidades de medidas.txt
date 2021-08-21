@@ -1,0 +1,17 @@
+Acesse esse link e leia o material : 
+https://www.alura.com.br/artigos/guia-de-unidades-no-css?gclid=Cj0KCQjwpf2IBhDkARIsAGVo0D2typrx09NMM3qrfNuZycRIANnKAwcMjFDG6yt2ujzWIQ2gHowB0yEaAs2vEALw_wcB
+
+Depois faça um breve resumo do funcionamento das seguintes Medidas Relativas:
+
+Medidas Relativas
+- 'em' = Essa unidade muda para os elementos filhos de acordo com o tamanho da fonte (font-size) do elemento pai
+
+- 'rem' = Enquanto o em está diretamente relacionado ao tamanho da fonte do elemento pai, o rem está relacionado com o tamanho da fonte do elemento root (raiz), no caso, a tag. 
+
+- vw = Viewport nada mais é que a área visível de uma página web para o seu usuário, essa viewport pode variar de acordo com o dispositivo, sendo menor em celulares e maior em desktops.
+
+- vh = Essa unidade funciona da mesma forma que o vw, porém dessa vez, a referência será a altura e não a largura
+
+- vmin = Diferentemente das anteriores, o vmin utilizará como base a menor dimensão da viewport (altura x largura)
+
+- vmax = o vmax terá como valor de referência a maior dimensão da viewport

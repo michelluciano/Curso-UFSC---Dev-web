@@ -1,0 +1,23 @@
+
+/* # liga ao id*/
+#externo{
+    background-color: yellow;  
+    padding: 10px;
+    border-style: solid;
+    border-color: green;
+    border-width: 10px;
+    width: 400px;
+}
+    
+/* , liga a class*/
+.interno{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+background-color: white;   
+text-align: center;
+border-style: solid;
+border-color: red;
+border-width: 10px;
+
+
+}
