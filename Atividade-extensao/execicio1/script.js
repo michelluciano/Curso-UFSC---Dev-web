@@ -1,3 +1,5 @@
+
+
 //pegar o body
 const body = document.querySelector('body');
 //pegar os botões
