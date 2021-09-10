@@ -1,0 +1,69 @@
+body{
+    background: #00d2ff; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3a7bd5, #00d2ff); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3a7bd5, #00d2ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    }
+    .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    h1{
+    color: #ffffff;
+    }
+    .input-container{
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 0.3rem;
+    }
+    .submit-input{
+    width: 300px;
+    height: 40px;
+    outline: none;
+    border: 2px solid #00d2ff;
+    font-size: 1.3rem;
+    color:#3a7bd5 ;
+    }
+    .submit-btn{
+    background-color: #00d2ff;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    color: #ffffff;
+    font-weight: bolder;
+    padding: 9px;
+    font-size: 1.1rem;
+    
+    }
+    
+    .tarefas-container{
+    margin-top: 20px;
+    border-radius: 0.3rem;
+    background-color: #ffffff;
+    min-height: 400px;
+    width: 425px;
+    }
+    
+    ul{
+    padding: 0;
+    }
+    .li-tarefa{
+    list-style: none;
+    width: 80%;
+    height: 40px;
+    border-bottom: 3px solid #3a7bd5;
+    margin: 10px auto;
+    font-size: 1.2rem;
+    color: #3a7bd5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    }
+    .del-btn{
+    padding: 5px;
+    background-color: #3a7bd5;
+    color: #ffffff;
+    font-weight: bolder;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    }
