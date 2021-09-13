@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    border:black solid 1px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center; 
+    background-color: #ccc;
+    
+}
+
+.top{
+    height: 30px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    display: table-cell;
+
+}
+
+.horarios{
+    
+    
+}
+
+ul{
+    border:red solid 0,3px;
+}
+
+li{
+    border: #000 solid 2px;
+    list-style-type: none;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    
+}
+
+
+.item{
+    /*border:red solid 1px;
+    width: 200px;
+     display: flex;
+    align-items: center;
+    justify-content: space-evenly; */
+}
