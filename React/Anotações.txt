@@ -1,0 +1,7 @@
+CRIANDO UM PROJETO REACT
+[noterminal] npx create-react-app [nomedoprojeto]
+Ex:
+[noterminal] npx create-react-app aula
+INICIANDO O PROJETO REACT
+[noterminal] cd start
+[noterminal] npx start
