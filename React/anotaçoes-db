@@ -1,0 +1,7 @@
+CRIAR UM BD JSON
+no terminal:
+npm init -y
+INSTALAR DEPENDENCIAS DO JSON
+npm i json-server
+DENTRO DO ARQUIVO packega.json criar um novo cript
+"start": "json-server --watch db.json --port 3001"
