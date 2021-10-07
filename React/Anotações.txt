@@ -4,4 +4,4 @@ Ex:
 [noterminal] npx create-react-app aula
 INICIANDO O PROJETO REACT
 [noterminal] cd start
-[noterminal] npx start
+[noterminal] npm start

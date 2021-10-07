@@ -1,0 +1,4 @@
+Excluir arquivo README.md;
+Excluir todos os arquivos da pasta public – exceto index.html
+Excluir todos os arquivos da pasta src- exceto: App.tsx, index.tsx e react-app-env.d.ts
+====================================================
